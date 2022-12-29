@@ -1,2 +1,3 @@
 # myShoestore
-https://shivam-patel11.github.io/myShoestore/
+
+ https://ompatle22.github.io/MyShoestore/
