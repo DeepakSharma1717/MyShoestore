@@ -1,3 +1,3 @@
 # myShoestore
 
- https://ompatle22.github.io/MyShoestore/
+  https://deepaksharma1717.github.io/MyShoestore/
