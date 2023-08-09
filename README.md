@@ -1,3 +1,3 @@
 # myShoestore
 
-  https://DS17/MSS/
+  https://deepaksharma1717.github/MyShoeStore/
